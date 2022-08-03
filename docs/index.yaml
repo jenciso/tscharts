@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   alpine:
   - apiVersion: v1
-    created: "2022-08-03T17:06:37.835977628+01:00"
+    created: "2022-08-03T17:10:32.958577663+01:00"
     description: Deploy a basic Alpine Linux pod
     digest: f44f733d69008e86c3989d3b094a5e6151d168921a09eda61c0897472e2f0399
     home: https://k8s.io/helm
@@ -10,10 +10,10 @@ entries:
     sources:
     - https://github.com/kubernetes/helm
     urls:
-    - https://jencisomychart.github.com/tscharts/alpine-0.3.0.tgz
+    - https://jenciso.github.io/tscharts/alpine-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: "2022-08-03T17:06:37.835610245+01:00"
+    created: "2022-08-03T17:10:32.958226773+01:00"
     description: Deploy a basic Alpine Linux pod
     digest: 99c76e403d752c84ead610644d4b1c2f2b453a74b921f422b9dcb8a7c8b559cd
     home: https://k8s.io/helm
@@ -21,10 +21,10 @@ entries:
     sources:
     - https://github.com/kubernetes/helm
     urls:
-    - https://jencisomychart.github.com/tscharts/alpine-0.2.0.tgz
+    - https://jenciso.github.io/tscharts/alpine-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: "2022-08-03T17:06:37.835189121+01:00"
+    created: "2022-08-03T17:10:32.957844425+01:00"
     description: Deploy a basic Alpine Linux pod
     digest: 515c58e5f79d8b2913a10cb400ebb6fa9c77fe813287afbacf1a0b897cd78727
     home: https://k8s.io/helm
@@ -32,26 +32,26 @@ entries:
     sources:
     - https://github.com/kubernetes/helm
     urls:
-    - https://jencisomychart.github.com/tscharts/alpine-0.1.0.tgz
+    - https://jenciso.github.io/tscharts/alpine-0.1.0.tgz
     version: 0.1.0
   mink:
   - apiVersion: v1
-    created: "2022-08-03T17:06:37.836409889+01:00"
+    created: "2022-08-03T17:10:32.95907934+01:00"
     description: A Helm chart for Kubernetes
     digest: 28e300f4bd90e49efc8c53cb631ea25f817e1e35da4f8131298bf79a06b6ec21
     name: mink
     urls:
-    - https://jencisomychart.github.com/tscharts/mink-0.1.0.tgz
+    - https://jenciso.github.io/tscharts/mink-0.1.0.tgz
     version: 0.1.0
   mysubchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-03T17:06:37.836655531+01:00"
+    created: "2022-08-03T17:10:32.959387224+01:00"
     description: A Helm chart for Kubernetes
     digest: 72f94371c1e09f6feedd0a94bf5e2715451be0bb757a8fa9a058012fac959ddd
     name: mysubchart
     type: application
     urls:
-    - https://jencisomychart.github.com/tscharts/mysubchart-0.1.0.tgz
+    - https://jenciso.github.io/tscharts/mysubchart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-03T17:06:37.83458591+01:00"
+generated: "2022-08-03T17:10:32.95724407+01:00"
